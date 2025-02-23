@@ -2,6 +2,9 @@
 
 > [!NOTE]
 > Development Completed
+> 
+> This repository contains only the code portion of the Unreal Engine project.
+It does not include the full project assets, levels, or settings.
 
 ## Information
 상명대학교 게임전공 캡스톤디자인
